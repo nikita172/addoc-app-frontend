@@ -1,0 +1,22 @@
+.addDocWrapper{
+    width: auto;
+    background: rgb(212, 222, 224);
+    height:calc(100vh - 70px);
+    padding:40px 200px;
+    position: relative;
+    top:70px;
+}
+.description{
+    width: 100%;
+    height: 120px;
+    margin-bottom: 20px;
+    border-color: rgb(231, 221, 221);
+    border-radius: 5px;
+    padding: 5px;
+}
+.uploadBtnContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}

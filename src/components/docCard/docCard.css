@@ -1,0 +1,11 @@
+.card{
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.card:hover{
+    cursor: pointer;
+}
+.docImg{
+    height: 150px;
+    justify-self: center;
+}

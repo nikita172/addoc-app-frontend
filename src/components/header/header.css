@@ -1,0 +1,22 @@
+.headerContainer{
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top:0px;
+    left: 0;
+    right: 0;;
+    box-shadow: 10px -2px 20px 2px #93929280;
+    z-index: 10;
+    background: white;
+}
+.headerWrapper{
+    margin-top: 13px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.registerButton{
+    position: absolute;
+    right: 50px;
+}

@@ -1,0 +1,38 @@
+.homeWrapper{
+    position: relative;
+    top:70px;
+    
+}
+.docCards{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.documentCard{
+    text-decoration: none;
+    color: black;
+}
+.addDocumentContainer{   
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    padding: 10px;
+    position: fixed;
+    bottom:30px;
+    right: 30px;
+    
+}
+.addDocumentContainer:hover{
+    background-color: forestgreen;
+    cursor: pointer;
+}
+.addDocumentTitle{
+    font-size: 19px;
+}
+.nothingTitle{
+    color:black;
+    font-weight: bold;
+   
+}
